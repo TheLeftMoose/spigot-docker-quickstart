@@ -9,5 +9,5 @@ spigot:
   stdin_open: true
   tty: true
 
-spigot_db:
+spigotdb:
   image: mysql:5.6
